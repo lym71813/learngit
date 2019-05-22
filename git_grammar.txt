@@ -1,0 +1,11 @@
+# git init 初始化git本地仓库
+# git add file 添加file到git暂存区
+# git commit -m "instructions" 提交暂存区file，并添加instruction的注释内容
+# git status 查看当前git仓库状态
+# git diff 可查看git版本之间的区别
+# git log 查看git历史记录
+# git reset --hard ***** 将文件恢复至****版本
+# git reflog 查看git执行的所有history操作
+# git remote add origin git@github.com:name/gitrepogit 添加Github账户及git库
+# git push (-u) origin master 将本地git库与github库链接并上传，同时-u命令执行关联
+ 
